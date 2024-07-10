@@ -6,3 +6,4 @@ joblib==1.1.1  # min
 threadpoolctl==2.0.0  # min
 pytest
 pytest-xdist==2.5.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
